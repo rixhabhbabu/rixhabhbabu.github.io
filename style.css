@@ -12,7 +12,9 @@
 	--primary-2: #0bb0ff;
 	--glow: 0 0 18px rgba(25, 211, 255, 0.35);
 }
-
+html {
+	scroll-behavior: smooth;
+}
 * {
 	margin: 0;
 	padding: 0;
